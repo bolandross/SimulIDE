@@ -1428,7 +1428,7 @@ Sollen die Änderungen gespeichert werden?
     </message>
     <message>
         <source>UpLoad</source>
-        <translation>UpLoad</translation>
+        <translation>Upload</translation>
     </message>
     <message>
         <source>Load Firmware</source>
